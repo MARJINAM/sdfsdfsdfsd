@@ -1,0 +1,51 @@
+{
+  "name": "guidebot",
+  "version": "2.0.3",
+  "description": "A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Idiots-Guide/guidebot.git"
+  },
+  "author": "The Idiot's Guide Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An-Idiots-Guide/guidebot/issues"
+  },
+  "homepage": "https://github.com/An-Idiots-Guide/guidebot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "enmap": "^5.0.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "express": "^4.16.4",
+    "chalk": "^2.4.2",
+    "jimp": "^0.6.4",
+    "ytdl-core": "^0.29.3",
+    "simple-youtube-api": "^5.2.1",
+    "gifencoder": "^2.0.1",
+    "node-opus": "^0.3.2",
+    "steam-provider": "^0.2.0",
+    "google": "^2.1.0",
+    "hastebin-gen": "^2.0.5",
+    "figlet": "^1.2.3",
+    "quick.db": "^7.0.0-b15",
+    "generate-password": "^1.4.1",
+    "node-superfetch": "^0.1.9",
+    "cowsay": "^1.4.0",
+    "google-translate-api": "^2.3.0",
+    "soi": "^1.7.5",
+    "speedtest-net": "^1.5.1",
+    "dateformat": "^3.0.3",
+    "fs-extra": "^8.1.0",
+    "rate-limiter-flexible": "^1.1.1",
+    "socket.io": "^2.2.0"
+  }
+}
